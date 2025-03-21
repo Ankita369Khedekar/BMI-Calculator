@@ -1,11 +1,4 @@
-# BMI-Calculator
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  4 12:16:54 2021
-
-@author: win10
-"""
 ### Create a BMI Calculation Application
 
 from pywebio.input import *
