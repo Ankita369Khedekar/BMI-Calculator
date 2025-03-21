@@ -19,4 +19,7 @@ This is a simple BMI (Body Mass Index) calculator application built using PyWebI
 - Displays BMI result with a classification message
 
 ## Output:- 
-![alt text](<Output.png>)
+
+
+
+![alt text](image.png)
