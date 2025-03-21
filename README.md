@@ -20,6 +20,7 @@ This is a simple BMI (Body Mass Index) calculator application built using PyWebI
 ## Input:-
 ![alt text](Input1.png) 
 
-![alt text](Input-2.png)
+![alt text](Input2-2.png)
+
 ##Output:-
 ![alt text](Output.png)
