@@ -18,7 +18,10 @@ This is a simple BMI (Body Mass Index) calculator application built using PyWebI
   - Severely obese
 - Displays BMI result with a classification message
 ## Input:-
-![alt text](<Screenshot 2025-03-21 at 7.22.19 PM.png>)
-![alt text](<Screenshot 2025-03-21 at 7.22.48 PM.png>)
-## Output:-
-![alt text](<Screenshot 2025-03-21 at 7.23.56 PM.png>)
+![alt text](Input1.png) 
+
+![alt text](Input2.png)
+
+##Output:-
+![alt text](Output.png)
+
