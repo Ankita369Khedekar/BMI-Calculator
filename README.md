@@ -22,5 +22,5 @@ This is a simple BMI (Body Mass Index) calculator application built using PyWebI
 
 ![alt text](Input2.png)
 
-##Output:-
+## Output:-
 ![alt text](Output.png)
